@@ -1,0 +1,7 @@
+/* Tailwind v4 design tokens. font-heading / font-body become utilities. */
+@theme {
+  --font-heading: 'Instrument Serif', Georgia, serif;
+  --font-body: 'Barlow', system-ui, sans-serif;
+
+  --color-surface: #000000;
+}
