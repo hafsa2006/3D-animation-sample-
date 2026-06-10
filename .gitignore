@@ -18,8 +18,14 @@ build
 .env.local
 .env.production
 
-# cache
+# cache & tooling
 .cache
+.eslintcache
+coverage
+
+# deploy tools
+.vercel
+.netlify
 
 # Editor directories and files
 .vscode/*
